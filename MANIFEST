@@ -1,6 +1,13 @@
-Changes
-Labels.pm
 MANIFEST
 Makefile.PL
-test.pl
-Labels/example.pl
+VERSION
+lib/PDF/Labels.pm
+lib/PDF/Labels/base.pm
+lib/PDF/Labels/Layout.pm
+lib/PDF/Labels/Layout/Simple.pm
+lib/PDF/Labels/Producer.pm
+t/01_use.t
+examples/nametag.jpg
+examples/nametag.pl
+README
+
